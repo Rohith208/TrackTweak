@@ -49,3 +49,6 @@ TrackTweak is a fast, lightweight, Python-based GUI application for managing vid
 4. **Add External Tracks**: Drag in `.srt` or `.mp3` files, or use the "+ Add External" buttons.
 5. **Trim (Optional)**: Use the Video Trimming section to cut the video. Enter timestamps strictly in `HH:MM:SS` or `HH:MM:SS.mmm` format (e.g., `00:01:30`). The app has strict duration validation to prevent errors.
 6. **Process**: Click **Process Final Video**. Once finished, Windows File Explorer will automatically pop open and highlight your newly created file!
+
+<img width="766" height="814" alt="image" src="https://github.com/user-attachments/assets/00b5ff73-7deb-4194-89b8-52fdfb121299" />
+
