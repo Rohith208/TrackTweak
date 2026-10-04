@@ -1,0 +1,36 @@
+# Environments
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Media files (prevent accidental large uploads)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.ts
+*.webm
+*.mp3
+*.aac
+*.m4a
+*.wav
+*.flac
+*.ac3
+*.srt
+*.vtt
+*.ass
+
+# Temp & Output files
+concat_list.txt
+temp_part_*.mkv
+*_muxed.*
+extracted_stream_*
+
+# OS generated files
+.DS_Store
+Thumbs.db
